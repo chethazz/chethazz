@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chethas</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🔭 I’m currently working on [PixelOS-Pixelish](https://github.com/PixelOS-Pixelish/)
+- 🔭 I’m currently working on [PixelOS-AOSP](https://github.com/PixelOS-Pixelish/)
 
-- 🌱 I’m currently learning **Javascript, C, Java**
+- 🌱 I’m currently doing my best to be a **Full stack developer**
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
-- 👨‍💻 All of my projects are available at [pixelos.vercel.app/download/violet](pixelos.vercel.app/download/violet)
+- 👨‍💻 YMy portfolio: [Click here](chethazz.vercel.app)
 
-- 💬 Ask me about **Android Development**
-
-- 📫 How to reach me **chethaskp10@gmail.com**
+- 💬 Ask me about **Android Development & Website development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

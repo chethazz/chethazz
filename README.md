@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
-- 👨‍💻 My portfolio: [Click here](chethazz.vercel.app)
+- 👨‍💻 My portfolio: [Click here](https://chethazz.vercel.app)
 
 - 💬 Ask me about **Android Development & Website development**
 

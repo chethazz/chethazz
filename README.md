@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chethas</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🔭 I’m currently working on [PixelOS-AOSP](https://github.com/PixelOS-Pixelish/)
+- 🔭 I’m currently working on [PixelOS](https://github.com/PixelOS-AOSP/)
 
 - 🌱 I’m currently doing my best to be a **Full stack developer**
 

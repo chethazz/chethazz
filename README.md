@@ -9,7 +9,7 @@
 
 - Looking to collaborate on **Opensource projects**
 
-- My portfolio: [Click here](https://chethazz.vercel.app)
+- My portfolio: [Click here](https://chethas.vercel.app)
 
 - Ask me about **Android Development, Website development & may be Flutter**
 

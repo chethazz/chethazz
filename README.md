@@ -3,11 +3,11 @@
 
 - I’m currently working on [PixelOS](https://github.com/PixelOS-AOSP/)
 
-- I’m currently doing my best to be a **Full stack developer**
+- Currently doing my best to be a **Full stack developer**
 
 - I'm also into **Mobile app development**
 
-- I’m looking to collaborate on **Opensource projects**
+- Looking to collaborate on **Opensource projects**
 
 - My portfolio: [Click here](https://chethazz.vercel.app)
 

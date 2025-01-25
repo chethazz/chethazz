@@ -23,4 +23,4 @@
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chethazz&theme=dark)](https://git.io/streak-stats)
+![chethazz's Stats](https://github-readme-stats.vercel.app/api?username=chethazz&theme=react&show_icons=true&hide_border=true&count_private=true)

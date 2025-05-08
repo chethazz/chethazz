@@ -3,9 +3,7 @@
 
 - Ex-maintainer at [PixelOS](https://github.com/PixelOS-AOSP/)
 
-- Currently doing my best to be a **Full stack developer**
-
-- I'm also into **Mobile app development**
+- **MERN stack developer**
 
 - Looking to collaborate on **Opensource projects**
 

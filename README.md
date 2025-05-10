@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Chethas</h1>
-<h3 align="center">A passionate Android developer from India</h3>
-
-- Ex-maintainer at [PixelOS](https://github.com/PixelOS-AOSP/)
+<h3 align="center">A passionate developer from Kerala</h3>
 
 - **MERN stack developer**
+
+- Ex-maintainer at [PixelOS](https://github.com/PixelOS-AOSP/)
 
 - Looking to collaborate on **Opensource projects**
 
 - My portfolio: [Click here](https://chethas.vercel.app)
 
-- Ask me about **Android Development, Website development & may be Flutter**
+- Ask me about **Website development, Android Development & may be Flutter**
 
 
 <h3 align="center">Languages and Tools:</h3>
